@@ -18,7 +18,6 @@ Installation
 * [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) : 19
 * [Visual Studio Code](https://code.visualstudio.com/download) : Version 1.74
 * [Node JS](https://nodejs.org/en/download/) : Version: 18.13.0
-Command 
 * In CMD "npm install -g @angular/cli"
 To run the project  
 * Open SQL Server Management Studio & connect using default server name with windows authentication
