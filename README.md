@@ -11,5 +11,5 @@ This is a ASP.Net Core API based project where Angular was used as Front end & S
 
 ## How to Install and Run the Project
 ***
-List of application 
-* SDK 7.0
+Installation
+* [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0): SDK 7.0.102
