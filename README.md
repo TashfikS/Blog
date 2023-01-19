@@ -5,7 +5,7 @@ This is a ASP.Net based project where Angular was used as Front end & SSMS as da
 
 
 ##### Table of Contents  
-[How to Install and Run the Project](#How to Install and Run the Project)  
+[How to Install and Run the Project](#How_to_Install_and_Run_the_Project)  
 [How to Use the Project](#How to Use the Project)     
 <a name="headers"/>
 
