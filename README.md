@@ -25,7 +25,7 @@ To run the project
 * Run backend version of the project & note the port number of localhost
 * Add the port number in Frontend\TheDevBlog\src\environments\environment.ts
 * Locate Frontend\TheDevBlog\tsconfig.json in CMD &
-* Finally run frontent of the project by "ng serve -o" command 
+* Finally run frontend of the project by "ng serve -o" command 
 
 ## How to Use the Project
 * User can see all the blog that stored in database
